@@ -1,8 +1,8 @@
 {
   "name": "koa-send",
-  "description": "Transfer static files",
+  "description": "Extended transfer static files",
   "repository": "koajs/send",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "keywords": [
     "koa",
     "file",
